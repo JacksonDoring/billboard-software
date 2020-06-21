@@ -21,6 +21,12 @@ What this software demonstrates?
 	-Creating user friendly GUI's
 	-Using session tokens to keep track of current user sessions
 
+How the software works:
 
-Installation guide can be found
+	-You will first need to have the billboard server working for the control panel and viewer to work properly
+	-The control panel is a GUI software that users can interact with
+	-The control panel can be used to create, edit and delete billboards, create, edit and delete users, and schedule billboards for the viewer
+	-The viewer is GUI that cannot be interacted with, the viewer runs in fullscreen and displays the current billboards
+
+Installation guide can be found in the file directory
  
